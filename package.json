@@ -1,0 +1,15 @@
+{
+  "name": "botTwitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^10.0.0",
+    "insult": "0.0.3",
+    "request": "^2.88.2",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.2.0"
+  }
+}
